@@ -62,7 +62,7 @@ Automotive-Fault-Detection-main/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/automotive-fault-detection.git
+git clone https://github.com/PranavDarshan/Automotive-Fault-Detection.git
 cd Automotive-Fault-Detection-main
 ```
 
