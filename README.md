@@ -6,6 +6,8 @@ Modern vehicles are increasingly complex, requiring intelligent, proactive diagn
 
 The system combines a **TabNet deep learning model** with **LLM (LLaMA)** integration to monitor vehicle health via live sensor data. It features a responsive **React.js frontend** for visualization and a **Spring Boot backend** to handle data and model interactions.
 
+Only frontend is deployed on the [vercel app](https://automotive-fault-detection.vercel.app/). Backend and database are not deployed.
+
 ---
 
 ## ⚙️ System Overview
